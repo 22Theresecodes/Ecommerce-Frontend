@@ -104,13 +104,13 @@ const Footer = () => {
         <Right>
             <Title>Contact</Title>
             <ContactItem>
-                <Room/> No.15 Mabel Erewa Street, off Etete Road GRA Benin City
+                <Room style={{marginRight:"10px"}} /> No.15 Mabel Erewa Street, off Etete Road GRA Benin City
             </ContactItem>
             <ContactItem>
-               <Phone/> +2348020810785
+               <Phone style={{marginRight:"10px"}} /> +2348020810785
             </ContactItem>
             <ContactItem>
-               <MailOutline/> contact@bouy.dev
+               <MailOutline style={{marginRight:"10px"}} /> contact@bouy.dev
             </ContactItem>
             <Payment src = "https://i.ibb.co/Qfvn4z6/payment.png"/>
         </Right>
